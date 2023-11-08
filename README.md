@@ -6,3 +6,9 @@ This classification also works on many data sets such as Houston 2013, Houston 2
 
 https://github.com/YuxiangZhang-BIT/Data-CSHSI   
 We have taken the Houston 2013, Houston 2018, University of Pavia (Sub) and Pavia Center (Puck) data sets from here. 
+
+We created this project in Jupyter notebook and in this project we have used many libraries like Keras, Sklaran, Numpy, Scipy and Spectral libraries.
+
+This is the output image of Houston 2013 data
+![image](https://github.com/Vijendra29/hyperspectral-image-classification/assets/76894193/e0d6df74-c00c-4501-a6fe-c7aaf7fe1ba2)
+
