@@ -4,7 +4,7 @@ This code is designed for performing classification of hyperspectral image data 
 
 This classification also works on many data sets such as Houston 2013, Houston 2018, University of Pavia (UP) and Pavia Center (PC) and Indian Pines.
 
-https://github.com/YuxiangZhang-BIT/Data-CSHSI   
+https://drive.google.com/drive/u/0/folders/1Oo9lsZyvUWdh6D1OxamiCh5md14A0Uii
 We have taken the Houston 2013, Houston 2018, University of Pavia (Sub) and Pavia Center (Puck) data sets from here. 
 
 We created this project in Jupyter notebook and in this project we have used many libraries like Keras, Sklaran, Numpy, Scipy and Spectral libraries.
