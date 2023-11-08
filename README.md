@@ -5,4 +5,4 @@ This code is designed for performing classification of hyperspectral image data 
 This classification also works on many data sets such as Houston 2013, Houston 2018, University of Pavia (UP) and Pavia Center (PC) and Indian Pines.
 
 https://github.com/YuxiangZhang-BIT/Data-CSHSI   
-We have taken the Houston 2013, Houston 2018, University of Pavia (Sub) and Pavia Center (Puck) data sets from here 
+We have taken the Houston 2013, Houston 2018, University of Pavia (Sub) and Pavia Center (Puck) data sets from here. 
